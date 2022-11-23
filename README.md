@@ -5,3 +5,6 @@ Peserta yang berpartisipasi dalam event ini adalah 50 Peserta Terpilih dari tota
 
 ## Apa yang akan dianalisis dari project ini?
 Hal yang akan dianalisis pada project ini adalah pengaruh vaksinasi covid-19 terhadap mortality rate speed 5 Provinsi Indonesia pada tahun 2022.
+
+# Slides
+https://docs.google.com/presentation/d/1ESg_ThyGvsXN6SP-TVsBYTOYwUp13RMp/edit?usp=sharing&ouid=103585039223758316721&rtpof=true&sd=true
